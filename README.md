@@ -10,3 +10,5 @@ FastAPI is a powerful tool that simplifies the process of building APIs. It help
 
 ![Screenshot 2024-09-18 180614](https://github.com/user-attachments/assets/c903b6b2-ea33-4549-bfd9-7ea2567a6b91)
 ![Screenshot 2024-09-18 180638](https://github.com/user-attachments/assets/055f6234-907d-468c-aba1-91887e2581a5)
+![Screenshot 2024-09-18 183922](https://github.com/user-attachments/assets/3d50211e-de9f-4c53-ad5d-0b4eccc362f6)
+![Screenshot 2024-09-18 183842](https://github.com/user-attachments/assets/a36f0235-6022-4600-ae70-0310410b2cad)
